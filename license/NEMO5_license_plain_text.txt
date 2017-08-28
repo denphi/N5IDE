@@ -1,0 +1,264 @@
+NEMO5 NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement is between Purdue Research Foundation ("Licensor") whose address 
+is 1281 Win Hentschel Blvd., West Lafayette, IN 47906 and 
+_______________________________________________("Licensee") whose address is 
+_______________________________________________ 
+
+NOW, THEREFORE, in consideration of the mutual covenants and premises herein contained, the 
+parties hereby agree as follows: 
+
+1.	DEFINITIONS. As used in the Agreement, these terms shall have the following definitions:
+
+1.1    "Agreement" means collectively (i) these Terms and Conditions, and (ii) the Software 
+License Agreement.
+
+1.2    "Effective Date" means the date of last signature of the Agreement.
+
+1.3	 "Licensed Software" means the software identified as: Nanoelectronic Modeling Tool 
+Suite NEMO5.
+
+1.4	 "Licensee Products" means those software products of Licensee, if any, that incorporate 
+the Licensed Software.
+
+1.5	 "Software License Agreement" means the particular Software License Agreement to 
+which these Terms and Conditions are attached and incorporated into by reference.
+
+1.6	"Updates" and "Upgrades" have the meanings given in Section 2.7 below.
+
+1.7	"Reference" means that use the code or a modified version of the Licensed Software 
+must cite reference of published and/or submitted work as follows:
+Sebastian Steiger, Michael Povolotskyi, Hong-Hyun Park, Tillmann Kubis, Gerhard 
+Klimeck, "NEMO5: A Parallel Multiscale Nanoelectronics Modeling Tool", IEEE 
+Transactions on Nanotechnology, vol. 10, pg. 1464, (2011); doi:10.1109/TNANO.2011.2166164
+       
+2.	 LICENSE RIGHTS AND LIMITATIONS
+
+2.1.	  Internal Use License. Subject to the terms and conditions of the Agreement and Licensee’s 
+compliance therewith, Licensor hereby grants to Licensee a non-exclusive, non-transferable, 
+non-sublicensable license to use the Software solely for the purpose of internal research 
+purposes at the facilities of Licensee.
+ 
+2.2.	 Redistribution Rights.  The Licensed Software, including source code, object code, and 
+documentation may not be redistributed by Licensee.
+
+2.3.	 Object/Source Code. The license granted to Licensee hereunder is only to use the object/source 
+code version by that number of Single-User licenses as indicated below. Object code compiled 
+from Licensee’s use of the source code shall be subject to all of the restrictions and limitations 
+on Licensed Software hereunder.
+
+Number of Single-User 
+Licenses 
+Object code: 5
+Source code: 1
+ 
+2.4.	  Number of Single-User Licenses. Unless Section 2.3 of the Software License Agreement 
+expressly states that the number of users of the Licensed Software is unlimited, then the use of 
+the Licensed Software by Licensee is limited to the number of Single Users indicated in Section 
+2.3 of the Software License Agreement. 
+
+2.5.	  Additional Restrictions.
+
+2.5.1.	 The Licensed Software may not be sold, leased, assigned, loaned or otherwise 
+transferred or provided to a third party. Licensee agrees not to use the Licensed Software in 
+the provision of services to any third party, including hosted application services, or to 
+otherwise operate a services bureau.
+  
+2.5.2.	Licensee may modify the Licensed Software. Licensee owns these source code 
+modifications.  Licensee must deposit in the NEMO5 online repository (to be maintained 
+by Licensor) the modified source code.
+
+2.5.3.	Licensee is not permitted to make copies of the Licensed Software or Documentation, 
+other than that number of copies which is necessary to exercise Licensee’s rights granted 
+hereunder. Licensee shall maintain a record of the location of all permitted copies.
+
+2.5.4.	THE LICENSED SOFTWARE IS NOT DESIGNED, INTENDED, OR AUTHORIZED 
+FOR USE IN ANY TYPE OF SYSTEM OR APPLICATION IN WHICH THE FAILURE 
+OF THE SYSTEM OR APPLICATION COULD CREATE A SITUATION WHERE 
+PERSONAL INJURY OR DEATH MAY OCCUR (E.G., MEDICAL SYSTEMS, LIFE-
+SUSTAINING OR LIFE-SAVING SYSTEMS).
+
+2.5.5.	Licensee's use of the License Software is restricted to non-commercial research. 
+Creation of products and selling of services that use, directly or indirectly, the Licensed 
+Software is not permitted.
+
+2.5.6.	Scientific publications that use the code or a modified version of the Licensed Software 
+must cite Reference, and Licensee must notify via email (gekco@purdue.edu) the Licensor 
+of published and/or submitted work.  Licensee must deposit a preprint and final publication 
+of the scientific research works on the NEMO5 online repository (to be maintained by 
+Licensor).
+
+2.6.	 Documentation License. Licensor hereby grants to Licensee a non-transferable, nonexclusive, 
+world-wide license to use any materials and documentation that Licensor may provide with the 
+Licensed Software (the "Documentation"), if any, solely in connection with Licensee's 
+authorized use under this Agreement of the Licensed Software.
+  
+2.7.	Updates and Upgrades. Licensee acknowledges and agrees that, Licensor does not offer 
+maintenance and support services with respect to the Licensed Software. Licensor is not 
+obligated to make any Updates or Upgrades generally publicly available. "Updates" means any 
+“bug” fixes or error corrections of the Licensed Software or any component thereof. "Upgrades" 
+means minor enhancements to functionality and other minor modifications to the Licensed 
+Software that are not Updates.
+
+2.8.	 Licensor Intellectual Property Rights. Licensee agrees that the Licensed Software and 
+Documentation, including the structure, sequence and organization of the Licensed Software are 
+proprietary and confidential to Licensor, and Licensee will take all reasonable measures to 
+protect the confidentiality of the Licensed Software unless, and to the extent, Licensor makes 
+them available to the public without such restrictions. Licensee further agrees that all right, title 
+and interest in and to the Licensed Software (and all intellectual property rights embodied 
+therein) or any modification, derivative, or improvement thereof made by Licensor is 
+proprietary to Licensor. All rights therein not expressly granted to Licensee under the 
+Agreement are reserved by Licensor.
+
+3.	LICENSEE’S OBLIGATIONS. Except as expressly set forth in the Agreement otherwise, 
+Licensee agrees: (a) not to remove from any copies of the Licensed Software or Documentation any 
+product identification, copyright or other notices; and/or (b) not to reproduce, modify, translate or 
+create derivative works of all or any portion of the Licensed Software except as expressly permitted 
+by the Agreement. Licensee further agrees that it shall not make any use of the Licensed Software 
+and Documentation except as specifically permitted by the Agreement.
+
+4.	DELIVERY. Upon return of this signed document by Licensee to Licensor, Licensee will be 
+granted admittance into the NEMO5 distribution group for one (1) year from the Effective Date and 
+may download the Licensed Software.
+
+5.	PAYMENT TERMS. 
+The Licensed Software is freely available to Licensor upon execution and receipt of this Agreement.
+
+6.	WARRANTY DISCLAIMER. THE LICENSED SOFTWARE AND DOCUMENTATION ARE 
+PROVIDED “AS IS.” LICENSOR MAKES NO WARRANTIES OR  REPRESENTATIONS 
+RELATING TO THE LICENSED SOFTWARE, EXPRESS OR IMPLIED, STATUTORY OR 
+OTHERWISE, AND EXPRESSLY EXCLUDES THE WARRANTY OF NON-INFRINGEMENT 
+OF THIRD-PARTY RIGHTS, FITNESS FOR A PARTICULAR PURPOSE OR 
+MERCHANTABILITY. LICENSOR DOES NOT WARRANT THAT THE LICENSED 
+SOFTWARE WILL SATISFY LICENSEE’S REQUIREMENTS, THAT THE LICENSED 
+SOFTWARE IS WITHOUT DEFECT OR ERROR OR THAT OPERATION OF THE LICENSED 
+SOFTWARE WILL BE UNINTERRUPTED.
+
+7.	LIMITATION OF LIABILITY. LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, 
+INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF 
+PROFITS, REVENUE, LOSS OR ERRORS IN DATA, OR OTHERWISE USE, INCURRED BY 
+LICENSEE OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT 
+(INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF LICENSOR HAS 
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.	INDEMNIFICATION. Licensee shall indemnify and hold harmless PRF, Purdue University, and 
+the State of Indiana and each of their respective current and future regents, directors, trustees, 
+officers, faculty, medical and professional staff, employees, students, trainees, and agents, and their 
+respective successors, heirs, and assigns against any claim, liability, cost, damage, deficiency, loss, 
+expense or obligation of any kind or nature (including without limitation reasonable attorneys fees, 
+expert witness fees, court costs and other costs and expenses of litigation at trial and appellate 
+levels) incurred by or imposed upon any one of them in connection with any claims, suits, actions, 
+demands or judgments that may arise from any actions or omissions in connection with this 
+Agreement by Licensee, its personnel, or any other person acting on behalf of or under authorization 
+from Licensee.  
+
+
+9.	TERM AND TERMINATION
+
+9.1.	Term. The term of the Agreement shall commence on the Effective Date and shall continue for 
+the period one (1) year, unless terminated earlier as set forth below.
+
+9.2.	 Effect of Termination. At the termination or expiration of the Agreement, (a) Licensee must 
+destroy all copies of the Licensed Software (except those already incorporated into Licensee 
+Products), data, and results. The following terms of the Agreement shall survive any expiration 
+or termination: Sections 1 (Definitions), 2.8 (Licensor Intellectual Property Rights), 3 
+(Licensee’s Obligations), 6 (Warranty Disclaimer), 7 (Limitation of Liability), 8 
+(Indemnification), 9 (Term and Termination), and 10 (General Provisions).
+
+10.	GENERAL PROVISIONS
+
+10.1.	Use of Names. Each party agrees to obtain the written approval of the other party prior 
+to making use of their names for any commercial purpose, except as required by law. As an 
+exception to the foregoing, both LICENSEE and PRF shall have the right to publicize the 
+existence of this Agreement; however, neither LICENSEE nor PRF shall disclose the terms and 
+conditions of this Agreement without the other party's consent, except as required by law.
+
+10.2.	 Notices. Any notice or reports required or permitted to be given under the Agreement 
+shall be given in writing and shall be delivered in a manner that provides confirmation or 
+acknowledgement of delivery. Notices to Licensor shall be sent to the address set forth in this 
+Agreement. Notices to Licensee shall be sent to the address set forth in Section 10.2 of the 
+Software License Agreement.
+
+10.3.	Export Regulations. Neither Licensor nor Licensee shall export, directly or indirectly, 
+any information acquired under the Agreement or any Licensed Software utilizing any such 
+information to any country for which the U.S. Government or any agency thereof at the time of 
+export requires an export license or other government approval without first obtaining such 
+license or approval.
+
+10.4.	Severability. If any provision hereof shall be held illegal, invalid or unenforceable, in 
+whole or in part, such provision shall be modified to the minimum extent necessary to make it 
+legal, valid and enforceable, and the remaining provisions of the Agreement shall not be 
+affected thereby. 
+
+10.5.	Headings. The paragraph headings and captions of the Agreement are included merely 
+for convenience of reference and are not to be considered part of, or to be used in interpreting 
+the Agreement and in no way limit or affect any of the contents of the Agreement or its 
+provisions.
+
+
+10.6.	Governing Law. This Agreement is made and construed in accordance with the laws of 
+the State of Indiana without regard to choice of law issues. Each party consents to the 
+jurisdiction of the Circuit Court of Tippecanoe County, Indiana for any suit against the other 
+party relating to this Agreement, and agrees to file any such suit in one of those courts.  The 
+parties exclude in its entirety the application to the Agreement of the United Nations 
+Convention on Contracts for the International Sale of Goods.
+
+10.7.	Assignment. Licensee shall not directly or indirectly sell, transfer, assign, convey, 
+pledge, encumber or otherwise dispose of the Agreement.
+
+10.8.	Relationship of the Parties. Nothing contained in the Agreement shall be construed as 
+creating any agency, partnership, or other form of joint enterprise between the parties. The 
+relationship between the parties shall at all times be that of independent contractors. Neither 
+party shall have authority to contract for or bind the other in any manner whatsoever. The 
+Agreement confers no rights upon either party except those expressly granted herein.
+
+10.9.	Counterparts. The Agreement may be executed in two or more counterparts, each of 
+which shall be deemed an original, but all of which together shall constitute one and the same 
+instrument.
+
+10.10.	Entire Agreement. The Agreement is the complete, entire, final and exclusive statement 
+of the terms and conditions of the agreement between the parties. The Agreement supersedes, 
+and the terms of the Agreement govern, any prior or collateral agreements between the parties 
+with respect to the subject matter hereof. The Agreement may not be modified except in a 
+writing executed by duly authorized representatives of the parties. The terms and conditions of 
+the Agreement shall prevail notwithstanding any variance with the terms and conditions of any 
+other instrument submitted by Licensee.
+
+
+IN WITNESS WHEREOF, the parties hereto have caused their duly authorized representatives to 
+execute this Software License Agreement.
+
+
+PURDUE RESEARCH FOUNDATION 
+
+						
+Elizabeth Hart-Wells
+
+Assistant Vice President and Director of Office of 
+Technology Commercialization
+
+Date:
+
+
+
+LICENSEE:  	
+
+	
+Name         __________________________________________ 
+
+
+Printed Name __________________________________________
+
+Title:       __________________________________________
+
+
+Date: 	    __________________________________________
+
+
+
+
+		 
+
+
+
+

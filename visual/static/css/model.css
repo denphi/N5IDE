@@ -1,0 +1,66 @@
+.chart {
+    background: #fff;
+    border: solid 1px #ddd;
+    box-shadow: 0 0 4px rgba(0,0,0,.2);
+    font: 10px sans-serif;
+    height: 180px;
+    position: relative;
+    width: 720px;
+}
+
+.chart svg {
+    border-left: solid 2px #ddd;
+    left: 360px;
+    position: absolute;
+    top: 0;
+}
+
+.chart pre {
+    font: 12px monospace;
+    height: 60px;
+    left: 10px;
+    position: absolute;
+    top: 0;
+    width: 340px;
+}
+
+rect {
+    fill: white;
+    stroke: #ccc;
+}
+
+rect.selected {
+    stroke: #000;
+}
+
+line {
+    stroke: #ccc;
+}
+
+text {
+	font-size:9px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+path {
+  stroke: #666;
+}
+
+path.parent {
+  stroke: green;
+}
+
+#tooltip {
+	position: absolute;
+	text-align: center;
+	z-index: 10;
+	width: auto;
+	height: auto;
+	padding: 8px;
+	font: 10px Verdana, Geneva, sans-serif;
+	background: #EEE;
+	color: #000;
+	border: solid 1px #aaa;
+	border-radius: 8px;
+	opacity: 0;
+} 

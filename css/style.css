@@ -1,0 +1,58 @@
+.dijitNemoLeaf {
+    background-position: 0px 50%;
+}
+.dijitNemoSolver {
+    background-position: -16px 50%;
+}
+.dijitNemoGeometry {
+    background-position: -32px 50%;
+}
+.dijitNemoStructure {
+    background-position: -48px 50%;
+}
+.dijitNemoMaterial {
+    background-position: -64px 50%;
+}
+.dijitNemoDomain {
+    background-position: -80px 50%;
+}
+.dijitNemoRegion {
+    background-position: -96px 50%;
+}
+.dijitNemoBoundaryRegion {
+    background-position: -112px 50%;
+}
+.dijitNemoBoundarySolvers {
+    background-position: -128px 50%;
+}
+.dijitNemoBoundaryCondition {
+    background-position: -144px 50%;
+}
+.dijitNemoGlobal {
+    background-position: -160px 50%;
+}
+.dijitNemoSet {
+    background-position: -176px 50%;
+}
+.dijitNemoLoop {
+    background-position: -192px 50%;
+}
+.dijitNemoRoot {
+    background-position: -208px 50%;
+}
+.dijitNemoIterator {
+    background-position: -224px 50%;
+}
+
+.dijitNemoLeaf, .dijitNemoSolver, .dijitNemoGeometry, .dijitNemoStructure, .dijitNemoMaterial, .dijitNemoDomain, .dijitNemoRegion,
+.dijitNemoBoundaryRegion, .dijitNemoBoundarySolvers, .dijitNemoBoundaryCondition, .dijitNemoGlobal, .dijitNemoSet, .dijitNemoLoop, 
+.dijitNemoRoot, .dijitNemoIterator
+{
+    background-image: url(dijitNemoIcons.png);
+    height: 16px;
+    width: 16px;
+}
+
+.claro .dijitDialog {
+	background:#CFE5FA;
+}
